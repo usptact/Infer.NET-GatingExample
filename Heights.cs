@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using MicrosoftResearch.Infer.Models;
-using MicrosoftResearch.Infer;
+using Microsoft.ML.Probabilistic.Models;
 
 namespace Heights
 {
